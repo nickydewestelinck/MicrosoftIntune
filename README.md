@@ -3,3 +3,4 @@
 
 ## Security Baselines 
 ### Microsoft 365 Apps for Enterprise 
+Configuration Profile created based on the Microsoft recommendations for the Security Baseline for Microsoft 365 Apps for Enterprise (v2206, June 2022)
